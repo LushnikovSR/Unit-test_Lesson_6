@@ -1,6 +1,6 @@
 # Отчет о выполнении задания промежуточной аттестации
 ## Код программы
-Размещен на GitHub: https://github.com/LushnikovSR
+Размещен на GitHub: [https://github.com/LushnikovSR](https://github.com/LushnikovSR/Unit-test_Lesson_6/blob/master/project/average.py)
 
 ## Код тестов
 Размещен на GitHub: https://github.com/LushnikovSR
