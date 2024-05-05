@@ -1,9 +1,9 @@
 # Отчет о выполнении задания промежуточной аттестации
 ## Код программы
-Размещен на GitHub: [https://github.com/LushnikovSR](https://github.com/LushnikovSR/Unit-test_Lesson_6/blob/master/project/average.py)
+Размещен на GitHub: [Код программы](https://github.com/LushnikovSR/Unit-test_Lesson_6/blob/master/project/average.py)
 
 ## Код тестов
-Размещен на GitHub: https://github.com/LushnikovSR
+Размещен на GitHub: [Код тестов](https://github.com/LushnikovSR/Unit-test_Lesson_6/tree/master/project/tests)
 
 ## Отчет pylint
 ![отчёт pylint](pylint_img.png)
